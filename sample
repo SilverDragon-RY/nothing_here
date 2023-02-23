@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "lecture 1",
+    "imgsrc": "cdn-icons-png.flaticon.com/512/5277/5277459.png",
+    "description": "some sample description"
+  },
+  {
+    "id": 2,
+    "name": "lecture 2",
+    "imgsrc": "cdn-icons-png.flaticon.com/512/5277/5277459.png",
+    "description": "some sample description"
+  },
+  {
+    "id": 3,
+    "name": "lecture 3",
+    "imgsrc": "cdn-icons-png.flaticon.com/512/5277/5277459.png",
+    "description": "some sample description"
+  },
+  {
+    "id": 4,
+    "name": "lecture 4",
+    "imgsrc": "cdn-icons-png.flaticon.com/512/5277/5277459.png",
+    "description": "some sample description"
+  },
+  {
+    "id": 5,
+    "name": "lecture 5",
+    "imgsrc": "cdn-icons-png.flaticon.com/512/5277/5277459.png",
+    "description": "some sample description"
+  },
+  {
+    "id": 6,
+    "name": "lecture 6",
+    "imgsrc": "cdn-icons-png.flaticon.com/512/5277/5277459.png",
+    "description": "some sample description"
+  }
+]
