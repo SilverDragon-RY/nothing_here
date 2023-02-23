@@ -17,7 +17,7 @@
     "id": 3,
     "name": "lecture 3",
     "imgsrc": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
-    "description": "some sample description",
+    "description": "this is some even very very long description which should not happen bcs it exceeds the limit but should not broke the format idk just trying hahahahahahhah jajajajajja",
     "tags": ["tag1", "tag2", "tag3"]
   },
   {
