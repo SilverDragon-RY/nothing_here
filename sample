@@ -3,7 +3,7 @@
     "id": 1,
     "name": "lecture 1",
     "imgsrc": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
-    "description": "This is also some extremely long description that nobody cares but probably takes some place of the next row 1231231231231321231231231231231231231231231231231231231",
+    "description": "This is also some extremely long description that nobody cares but probably takes some place of the next row hhheeehhh thats too bad. The JS splits sentences by words so some really freaking long words could possibly breaks it. i.e. EHHHHEHEHHEHEHEHEHEHHEHEHE",
     "tags": ["tag1", "tag2", "tag3"]
   },
   {
