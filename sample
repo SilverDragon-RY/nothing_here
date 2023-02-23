@@ -3,36 +3,42 @@
     "id": 1,
     "name": "lecture 1",
     "imgsrc": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
-    "description": "some sample description"
+    "description": "some sample description",
+    "tags": ["tag1", "tag2", "tag3"]
   },
   {
     "id": 2,
     "name": "lecture 2",
     "imgsrc": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
-    "description": "some sample description"
+    "description": "some sample description",
+    "tags": ["tag1", "tag2", "tag3"]
   },
   {
     "id": 3,
     "name": "lecture 3",
     "imgsrc": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
-    "description": "some sample description"
+    "description": "some sample description",
+    "tags": ["tag1", "tag2", "tag3"]
   },
   {
     "id": 4,
     "name": "lecture 4",
     "imgsrc": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
-    "description": "some sample description"
+    "description": "some sample description",
+    "tags": ["tag1", "tag2", "tag3"]
   },
   {
     "id": 5,
     "name": "lecture 5",
     "imgsrc": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
-    "description": "some sample description"
+    "description": "some sample description",
+    "tags": ["tag1", "tag2", "tag3"]
   },
   {
     "id": 6,
     "name": "lecture 6",
     "imgsrc": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
-    "description": "some sample description"
+    "description": "some sample description",
+    "tags": ["tag1", "tag2", "tag3"]
   }
 ]
